@@ -137,7 +137,6 @@ src/
 | File | Description |
 |------|-------------|
 | `windsurf_data-exfil1.mp4` | Disabled mode: full recording of the exfiltration chain |
-| `windsurf-date-exfil2-turbo.mp4` | Turbo mode: full recording of zero-click exfiltration |
 | `windsurf_data-exfil-turbo-full.mp4` | Turbo mode: complete zero-click exfiltration, full session recording |
 | `disabled_proof.mp4` | Disabled mode: recording of file read without exfiltration payload |
 
