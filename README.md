@@ -1,4 +1,4 @@
-# Windsurf Cascade: Indirect Prompt Injection and Credential Exfiltration via Retrieved External Content
+# Windsurf Cascade: Indirect Prompt Injection and Credential Exfiltration via Github Gists
 
 ## Summary
 
